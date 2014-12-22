@@ -1,0 +1,14 @@
+﻿A repository contains a directory named .git, where git keeps all of its metadata for the repository.
+The content of the .git directory are private to git.
+Is similar to a plugin in other software, but even better. The key difference is that everything is a bundle in Symfony 2.3.2, including both core framework functionality and the code written for your application.
+A bundle is a structured set of files within a directory that implement a single feature.
+Tips: A bundle can live anywhere as long as it can be autoloaded (app/autoload.php).
+ 
+ sdhgagvsdh4444
+ dfjhsdgbfbndvcbcgh
+ sdfbsdnwdbcvbndc
+ dcwebfhjwef
+ wergethyt
+44444444444444444
+12321244535545646
+pppppp
